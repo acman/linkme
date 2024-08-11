@@ -1,1 +1,0 @@
-export { PlatformTiktokColorOriginal } from "./PlatformTiktokColorOriginal";

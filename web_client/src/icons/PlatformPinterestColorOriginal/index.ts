@@ -1,1 +1,0 @@
-export { PlatformPinterestColorOriginal } from "./PlatformPinterestColorOriginal";
